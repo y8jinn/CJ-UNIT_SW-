@@ -1,4 +1,4 @@
-# CJ-UNIT
+# CJ_UNIT
 CJ Olivenetworks에서 주관하는 SW 사회공헌 활동  
 
 '2021.08-2021.12'동안 진행되었습니다.  
