@@ -1,4 +1,4 @@
-# CJ_UNIT
+# CJ_UNIT_SW창의캠프
 CJ Olivenetworks에서 주관하는 SW 사회공헌 활동  
 
 '2021.08-2021.12'동안 진행되었습니다.  
